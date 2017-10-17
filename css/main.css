@@ -1,0 +1,74 @@
+body {
+	background-color: #fae39b;
+	margin: 0;
+}
+
+table.main {
+	border: none;
+	width: 800px;
+}
+
+table.main td {
+	padding: 0px;
+	margin: 0px;
+}
+
+td.banner {
+	width: 100%;
+}
+
+table.main td.navigation, table.main td.content {
+	padding-top: 20px;
+}
+
+td.navigation {
+	background-image: url("../img/gradient.jpg");
+	width: 147px;
+	height: 1000px;
+	vertical-align: top;
+}
+
+td.nav {
+	vertical-align: middle;
+	padding-top: 2px;
+}
+
+td.content {
+	width: 653px;
+	vertical-align: top;
+}
+
+td.content td {
+	vertical-align: top;
+}
+
+td.price {
+	height: 20;
+	text-align: center;
+	vertical-align: middle;
+}
+
+th.price {
+	background-color: #D2C08E
+}
+
+a:link {
+	font: small;
+	color: Black;
+}
+a:visited {
+	font: small;
+	color: Black;
+}
+a:hover {
+	font: small;
+	color: Black;
+}
+a:active {
+	font: small;
+	color: Black;
+}
+
+table {
+	border-collapse: collapse;
+}
